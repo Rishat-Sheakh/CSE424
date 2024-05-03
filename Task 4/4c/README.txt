@@ -1,13 +1,13 @@
-Link to unlisted YouTube video:
+Link to unlisted YouTube video: https://youtu.be/vvOrLjzO2sI
+
 
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/10Qjv8HIJRZOFJgjA3sI5vcIQ3sAZ-l-KuYyac45kGE4/edit#slide=id.g2cde5c478ae_2_75
 
-Paper title:
+Paper title:Emotion Recognition From Human Speeches: Introducing the Three-Stage Pipeline
 
 
-Link to the paper:
 
 
 Group Number:
@@ -19,5 +19,4 @@ Team members:
 20301367 Awon Bin Kamrul
 
 
-
-I also correctly uploaded slide.PPT and report.PDF here.
+Unlisted Youtube video link provided here
